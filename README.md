@@ -16,4 +16,4 @@ You will also see any lint errors in the console.
 
 ## ToDoList
 
-check the wiki
+Check the wiki
