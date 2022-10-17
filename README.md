@@ -18,11 +18,11 @@ Still hasn't been made yet.
 
      Keep yourself in tune, no matter how many cents you're off.
 
-- A **Metronome**
+- **A Metronome**
 
      Keep yourself in time! Every beat counts!
 
-- **Transposer**
+- **A Transposer**
 
      Transpose any note in an instant!
      
