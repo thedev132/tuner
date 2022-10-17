@@ -1,7 +1,7 @@
 # Tuner
 ![Discord Shield](https://discordapp.com/api/guilds/1030339236521582672/widget.png?style=shield)
 [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://cmon.let.dev/)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://cmon.letz.dev/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/thedev132/tuner/graphs/commit-activity)
 [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
