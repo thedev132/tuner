@@ -10,7 +10,7 @@ Tuner *inspired by* Tonal Energy
 
 ## Description
 
-In Progress.
+Still in Progress.
 
 ## Features
 
